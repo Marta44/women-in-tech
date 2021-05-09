@@ -23,6 +23,9 @@ button .navbar-toggler{
     text-align: right;
 }
 /*--Navbar logo--*/
+.bg-color-navbar{
+    background-color: #ffe3ec;
+}
 .navbar-brand{
     font-family: 'Amatic SC', cursive;
     font-size: 30px;
@@ -43,8 +46,6 @@ a:hover{
 }
 .card-body{
     margin-bottom: 10px;
-}
-.card title .card text{
     font-weight: 900;
 }
 .account-login{
